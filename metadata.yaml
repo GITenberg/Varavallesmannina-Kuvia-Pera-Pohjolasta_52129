@@ -1,0 +1,26 @@
+_repo: Varavallesmannina-Kuvia-Pera-Pohjolasta_52129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kataja, Väinö
+    alias: Kataja, Vaino
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '5390'
+    url: http://www.gutenberg.org/2009/agents/5390
+    wikipedia: http://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
+description: ''
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52129'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Varavallesmannina: Kuvia Perä-Pohjolasta'
+url: http://www.gutenberg.org/ebooks/52129
